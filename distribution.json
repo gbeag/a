@@ -11,9 +11,9 @@
       "id": "Earth-1.12.2",
       "name": "Earth (Minecraft 1.12.2)",
       "description": "Earth Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
-      "icon": null,
+      "icon": "https://cdn.discordapp.com/attachments/924595821561909279/937923594573479966/-_-001_8.png",
       "version": "1.0.0",
-      "address": "https://raw.githubusercontent.com/gbeag/e/main",
+      "address": "mc.hypixel.net",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
